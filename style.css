@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,300&display=swap');
+@media only screen and (max-width: 600px) {
+    body { 
+      background-color: lightblue;
+    }
+  }
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: hsl(0, 0%, 98%);
+    font-weight: 600px;
+}
+.p1{
+    color: hsl(228, 4%, 27%);
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 4px;
+}
+h1{
+    text-align: center;
+    color: rgb(63, 62, 62);
+}
+.p2{
+    text-align: center;
+    margin-left: 400px;    
+    color: hsl(223, 5%, 70%);
+    font-size: 15px;
+    font-weight: 600px;
+    width: 40%;
+}
+.card1{
+    float: left;
+    margin-left: 120px;
+    margin-top: 200px;
+    padding: 8px;
+    border-radius: 12px;
+    border-top: 4px solid hsl(180, 62%, 55%);
+    width: 25%;
+    height: 200px;
+    font-size: 15px;
+    color: #c0bdbd;
+    background-color:#ffffff;
+}
+.sup{
+    margin-left: 250px;
+    margin-top: -18px;
+}
+.card2{
+    float: left;
+    margin-left: 20px;
+    margin-top: 40px;
+    padding: 8px;
+    border-radius: 12px;
+    border-top: 4px solid hsl(180, 62%, 55%);
+    width: 25%;
+    height: 200px;
+    font-size: 15px;
+    color: #c0bdbd;
+    border-color: hsl(0, 78%, 62%);
+    background-color:   hsl(0, 0%, 98%);
+}
+.team{
+    margin-left: 250px;
+    margin-top: -18px;
+}
+.card3{
+    margin-left: 490px;
+    margin-top: 300px;
+    padding: 8px;
+    border-radius: 12px;
+    border-top: 4px solid hsl(34, 97%, 64%);
+    width: 25%;
+    height: 200px;
+    font-size: 15px;
+    color: #c0bdbd;
+    background-color: hsl(0, 0%, 98%);
+}
+.Ka{
+    margin-left: 250px;
+    margin-top: -18px;
+}
+.card4{
+    float: right;
+    margin-right: 110px;
+    margin-top: -300px;
+    padding: 8px;
+    border-radius: 12px;
+    border-top: 4px solid hsl(212, 86%, 64%);
+    width: 25%;
+    height: 200px;
+    font-size: 15px;
+    color: #c0bdbd;
+    background-color:  hsl(0, 0%, 98%);
+}
+.cal{
+    margin-left: 250px;
+    margin-top: -18px;
+}
+.attribution{
+    margin-top: 50px;
+}
